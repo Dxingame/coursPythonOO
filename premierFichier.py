@@ -1,0 +1,1 @@
+print("yo, t'as pas un 06?")
